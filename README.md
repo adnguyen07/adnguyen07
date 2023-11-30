@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 <h3 align="center">A Friendly and Fastidious Developer from San Diego, CA</h3>
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **alexanderdnguyen4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
